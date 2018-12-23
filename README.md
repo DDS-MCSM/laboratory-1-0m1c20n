@@ -22,3 +22,6 @@ Alternatively, already rendered versions are available as following files:
 - R Packages
 - RStudio as IDE
 - Git as VCS
+
+### Student
+Oriol Mominó Villegas
